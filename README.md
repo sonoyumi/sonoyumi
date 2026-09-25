@@ -24,6 +24,7 @@ This profile is my open portfolio: real projects, my progress and my configs.
 
 | Project | What it does |
 |---|---|
+| [Lead hub](https://github.com/sonoyumi/lead-hub) | A lead-management backend: REST API for website forms, de-duplication, round-robin assignment, SLA reminders and escalations, daily Excel digest (FastAPI, SQLAlchemy, Alembic) |
 | [Booking bot](https://github.com/sonoyumi/booking-bot) | A Telegram bot for booking appointments: free time slots, reminders, owner notifications, no double bookings |
 | [Table report](https://github.com/sonoyumi/table-report) | Merges messy CSV/Excel files into one clean Excel report with totals and can send it to Telegram |
 | [Guard bot](https://github.com/sonoyumi/guard-bot) | A Telegram group moderator: captcha for newcomers, link/forward/stop-word filter, anti-flood, warnings and mutes |
@@ -186,6 +187,7 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
 
 | Проект | Что делает |
 |---|---|
+| [Приём заявок (Lead hub)](https://github.com/sonoyumi/lead-hub) | Бэкенд для заявок: REST API для форм сайтов, склейка дублей, распределение по менеджерам, напоминания и эскалации, ежедневная сводка с Excel (FastAPI, SQLAlchemy, Alembic) |
 | [Бот записи клиентов](https://github.com/sonoyumi/booking-bot) | Telegram-бот для записи на услуги: свободное время, напоминания, уведомления владельцу, без двойных записей |
 | [Отчёт из таблиц](https://github.com/sonoyumi/table-report) | Сводит разрозненные CSV/Excel-файлы в один чистый Excel-отчёт с итогами и может отправить его в Telegram |
 | [Антиспам-бот для групп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-групп: капча для новичков, фильтр ссылок, пересылок и стоп-слов, антифлуд, предупреждения и мут |
