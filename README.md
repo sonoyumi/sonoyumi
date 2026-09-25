@@ -2,7 +2,7 @@
 
 **🇬🇧 English** · [🇷🇺 Русский](#russian)
 
-# Hi, I'm yumi044 👋
+# Hi, I'm Vladyslav Shokun 👋
 
 A self-taught Python developer. I build **Telegram bots, data scrapers and automation tools**,
 and I love tuning Linux so it runs fast even on modest hardware.
@@ -52,7 +52,7 @@ Everything is tuned to stay fast, even with local databases and AI models runnin
 
 [🇬🇧 English](#english) · **🇷🇺 Русский**
 
-# Привет, я yumi044 👋
+# Привет, я Vladyslav Shokun 👋
 
 Python-разработчик, учусь сам. Делаю **Telegram-ботов, парсеры данных и инструменты автоматизации**,
 а ещё люблю настраивать Linux так, чтобы он летал даже на скромном железе.
