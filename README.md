@@ -1,6 +1,6 @@
 <a name="english"></a>
 
-**🇬🇧 English** · [🇷🇺 Русский](#russian)
+**🇬🇧 English** · [🇮🇹 Italiano](#italian) · [🇺🇦 Українська](#ukrainian) · [🇷🇺 Русский](#russian)
 
 # Hi, I'm Vladyslav Shokun 👋
 
@@ -52,9 +52,117 @@ Everything is tuned to stay fast, even with local databases and AI models runnin
 
 ---
 
+<a name="italian"></a>
+
+[🇬🇧 English](#english) · **🇮🇹 Italiano** · [🇺🇦 Українська](#ukrainian) · [🇷🇺 Русский](#russian)
+
+# Ciao, sono Vladyslav Shokun 👋
+
+Sviluppatore Python autodidatta. Creo **bot Telegram, scraper di dati e strumenti di automazione**,
+e adoro ottimizzare Linux perché sia veloce anche su hardware modesto.
+Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le mie configurazioni.
+
+## 🧰 Cosa so fare
+
+- **Python** è il mio linguaggio principale e lo uso con sicurezza ogni giorno: codice asincrono (`asyncio`),
+  bot Telegram (`aiogram`), API esterne e modelli di IA (OpenAI, Gemini, modelli locali tramite Ollama).
+  Al momento sto seguendo dei corsi per certificare le mie competenze.
+- **Database:** SQLite / `aiosqlite` nei miei progetti. Il prossimo passo è approfondire lo studio dei database.
+- **Web scraping:** raccolta di dati da siti web e canali Telegram pubblici (`httpx`, `Playwright`).
+- **Basi del web:** HTML e un po' di CSS (per esempio, lo stile della mia barra di stato).
+- **Linux:** uso Arch Linux ogni giorno. Mi muovo con sicurezza tra i gestori di pacchetti (`pacman`, `flatpak`) e risolvo i problemi da solo,
+  e configuro a mano il mio desktop: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Strumenti:** Git, VS Code con assistenti IA.
+
+## 🚀 Progetti
+
+| Progetto | Cosa fa |
+|---|---|
+| [Bot di prenotazione](https://github.com/sonoyumi/booking-bot) | Un bot Telegram per prenotare appuntamenti: orari liberi, promemoria, notifiche al titolare, niente doppie prenotazioni |
+| [Report da tabelle](https://github.com/sonoyumi/table-report) | Unisce file CSV/Excel disordinati in un unico report Excel pulito con i totali e può inviarlo su Telegram |
+| [Bot di moderazione](https://github.com/sonoyumi/guard-bot) | Un moderatore per gruppi Telegram: captcha per i nuovi arrivati, filtro di link, inoltri e parole vietate, anti-flood, avvisi e silenziamento |
+| [Monitor prezzi](https://github.com/sonoyumi/price-tracker) | Tiene d'occhio i prezzi dei prodotti su qualsiasi sito, conserva lo storico e invia avvisi su Telegram per ribassi, prezzi obiettivo e cambi di disponibilità |
+| [Scraper di siti e Telegram](https://github.com/sonoyumi/async-content-scraper) | Monitora siti web e canali Telegram pubblici secondo una pianificazione, elimina i duplicati, invia notifiche |
+| Bot HR per la selezione *(in arrivo)* | Un bot Telegram che fa il primo colloquio ai candidati, valuta le risposte con l'IA ed esporta i risultati in Excel |
+| yumi-rice | La mia configurazione desktop Hyprland / HyDE per Arch Linux su MacBook M1 *(per ora privata)* |
+
+## 💻 La mia postazione
+
+MacBook Pro M1 (8 GB di RAM) · Arch Linux ARM (Asahi) + macOS in dual boot · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
+Tutto è ottimizzato per restare veloce, anche con database locali e modelli di IA in esecuzione su soli 8 GB di RAM.
+
+## 🤝 Collaborare con me
+
+- **Disponibile per lavori freelance e posizioni da Junior Python Developer**, pronto a iniziare subito.
+- Quasi sempre raggiungibile. Concordiamo le condizioni in modo flessibile e chiaro.
+- Scadenze rigide e fisse non sono un problema, quando il progetto le richiede.
+- Adoro imparare, con gli strumenti di IA e senza. Se siete d'accordo, accetto volentieri un compito
+  nuovo per me e imparo strada facendo: è sempre così che ho acquisito l'esperienza più preziosa.
+
+## 📫 Contatti
+
+- **Email:** sonoyumiii@gmail.com
+- **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+
+---
+
+<a name="ukrainian"></a>
+
+[🇬🇧 English](#english) · [🇮🇹 Italiano](#italian) · **🇺🇦 Українська** · [🇷🇺 Русский](#russian)
+
+# Привіт, я Vladyslav Shokun 👋
+
+Python-розробник, навчаюся самостійно. Створюю **Telegram-ботів, парсери даних та інструменти автоматизації**,
+а ще люблю налаштовувати Linux так, щоб він літав навіть на скромному залізі.
+Цей профіль — моє відкрите портфоліо: реальні проєкти, мій прогрес і мої конфіги.
+
+## 🧰 Що я вмію
+
+- **Python** — моя основна мова, щодня впевнено нею працюю: асинхронний код (`asyncio`),
+  Telegram-боти (`aiogram`), зовнішні API та нейромережі (OpenAI, Gemini, локальні моделі через Ollama).
+  Зараз проходжу курси, щоб підтвердити навички сертифікатом.
+- **Бази даних:** SQLite / `aiosqlite` у своїх проєктах. Наступний крок — глибше вивчати бази даних.
+- **Парсинг:** збір даних із сайтів і публічних Telegram-каналів (`httpx`, `Playwright`).
+- **Основи вебу:** HTML і трохи CSS (наприклад, оформлення власної панелі стану).
+- **Linux:** щодня користуюся Arch Linux. Упевнено працюю з пакетними менеджерами (`pacman`, `flatpak`), сам розв'язую проблеми
+  й налаштовую конфіги робочого столу: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Інструменти:** Git, VS Code з ШІ-асистентами.
+
+## 🚀 Проєкти
+
+| Проєкт | Що робить |
+|---|---|
+| [Бот запису клієнтів](https://github.com/sonoyumi/booking-bot) | Telegram-бот для запису на послуги: вільний час, нагадування, сповіщення власнику, без подвійних записів |
+| [Звіт із таблиць](https://github.com/sonoyumi/table-report) | Зводить розрізнені CSV/Excel-файли в один чистий Excel-звіт із підсумками й може надіслати його в Telegram |
+| [Антиспам-бот для груп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-груп: капча для новачків, фільтр посилань, пересилань і стоп-слів, антифлуд, попередження та мут |
+| [Монітор цін](https://github.com/sonoyumi/price-tracker) | Стежить за цінами товарів на будь-яких сайтах, зберігає історію та надсилає в Telegram сповіщення про зниження ціни, досягнення цільової ціни й зміну наявності |
+| [Парсер сайтів і Telegram](https://github.com/sonoyumi/async-content-scraper) | За розкладом стежить за сайтами й публічними Telegram-каналами, прибирає дублікати, надсилає сповіщення |
+| HR-бот для відбору кандидатів *(незабаром)* | Telegram-бот проводить первинну співбесіду, оцінює відповіді за допомогою ШІ та вивантажує результати в Excel |
+| yumi-rice | Мій сетап робочого столу Hyprland / HyDE для Arch Linux на MacBook M1 *(поки що закритий)* |
+
+## 💻 Мій сетап
+
+MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійне завантаження) · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
+Усе налаштовано так, щоб система працювала швидко навіть із локальними базами даних та ШІ-моделями на 8 ГБ пам'яті.
+
+## 🤝 Співпраця
+
+- **Відкритий до фриланс-завдань і позиції Junior Python-розробника**, готовий почати одразу.
+- Майже завжди на зв'язку. Умови обговорюємо гнучко й чітко.
+- Якщо проєкту потрібен жорсткий фіксований дедлайн, вкладуся в нього.
+- Люблю вчитися, з ШІ і без нього. Якщо замовник не проти, візьмуся за незнайоме завдання
+  й розберуся по ходу роботи: саме так я завжди здобуваю найцінніший досвід.
+
+## 📫 Контакти
+
+- **Email:** sonoyumiii@gmail.com
+- **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+
+---
+
 <a name="russian"></a>
 
-[🇬🇧 English](#english) · **🇷🇺 Русский**
+[🇬🇧 English](#english) · [🇮🇹 Italiano](#italian) · [🇺🇦 Українська](#ukrainian) · **🇷🇺 Русский**
 
 # Привет, я Vladyslav Shokun 👋
 
