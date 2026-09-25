@@ -24,8 +24,10 @@ This profile is my open portfolio: real projects, my progress and my configs.
 
 | Project | What it does |
 |---|---|
-| [HR screening bot](https://github.com/sonoyumi/hr-screening-bot) | A Telegram bot that interviews job candidates, scores their answers with AI and exports results to Excel |
+| [Booking bot](https://github.com/sonoyumi/booking-bot) | A Telegram bot for booking appointments: free time slots, reminders, owner notifications, no double bookings |
+| [Table report](https://github.com/sonoyumi/table-report) | Merges messy CSV/Excel files into one clean Excel report with totals and can send it to Telegram |
 | [Web & Telegram scraper](https://github.com/sonoyumi/async-content-scraper) | Monitors websites and public Telegram channels on a schedule, removes duplicates, sends notifications |
+| HR screening bot *(coming soon)* | A Telegram bot that interviews job candidates, scores their answers with AI and exports results to Excel |
 | yumi-rice | My Hyprland / HyDE desktop setup for Arch Linux on a MacBook M1 *(private for now)* |
 
 ## 💻 My setup
@@ -74,8 +76,10 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
 
 | Проект | Что делает |
 |---|---|
-| [HR-бот для отбора кандидатов](https://github.com/sonoyumi/hr-screening-bot) | Telegram-бот проводит первичное собеседование, оценивает ответы с помощью ИИ и выгружает результаты в Excel |
+| [Бот записи клиентов](https://github.com/sonoyumi/booking-bot) | Telegram-бот для записи на услуги: свободное время, напоминания, уведомления владельцу, без двойных записей |
+| [Отчёт из таблиц](https://github.com/sonoyumi/table-report) | Сводит разрозненные CSV/Excel-файлы в один чистый Excel-отчёт с итогами и может отправить его в Telegram |
 | [Парсер сайтов и Telegram](https://github.com/sonoyumi/async-content-scraper) | По расписанию следит за сайтами и публичными каналами, убирает дубли, присылает уведомления |
+| HR-бот для отбора кандидатов *(скоро)* | Telegram-бот проводит первичное собеседование, оценивает ответы с помощью ИИ и выгружает результаты в Excel |
 | yumi-rice | Мой сетап рабочего стола Hyprland / HyDE для Arch Linux на MacBook M1 *(пока закрыт)* |
 
 ## 💻 Мой сетап
