@@ -4,8 +4,11 @@
 
 # Hi, I'm Vladyslav Shokun 👋
 
-A self-taught Python developer. I build **Telegram bots, data scrapers and automation tools**,
-and I love tuning Linux so it runs fast even on modest hardware.
+A self-taught Python developer based in Bolzano, Italy. I build **Telegram bots, data scrapers, backends
+and automation tools** that save people time on routine work, and I love tuning Linux so it runs fast
+even on modest hardware.
+I speak **Italian (B2+), English (B1), Ukrainian and Russian (C2)**, so we can talk about your project
+in the language that suits you best.
 This profile is my open portfolio: real projects, my progress and my configs.
 
 ## 🧰 What I can do
@@ -21,7 +24,6 @@ This profile is my open portfolio: real projects, my progress and my configs.
   and I hand-tune my desktop configs: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Quality and deployment:** `pytest` tests and `ruff` in every project, CI on GitHub Actions, Docker and systemd for 24/7 services.
 - **Tools:** Git, VS Code with AI assistants.
-- **Languages:** Italian (B2+), English (B1), Ukrainian and Russian (C2, native). Based in Bolzano, Italy.
 
 ## 🚀 Projects
 
@@ -43,10 +45,14 @@ Everything is tuned to stay fast, even with local databases and AI models runnin
 ## 🤝 Working with me
 
 - **Open to freelance tasks and Junior Python developer roles**, and ready to start right away.
-- Almost always online. We agree on terms flexibly and clearly.
-- Strict, fixed deadlines are fine when a project needs them.
-- I love learning, with AI tools and without. If you're open to it, I'm happy to take on a task
-  that's new to me and learn as I go. That's how I've always gained my most valuable experience.
+- **Quick to respond.** I'm almost always online, and I take on complex tasks willingly instead of avoiding them.
+- **Always learning.** I keep improving my skills, with AI tools and without. If you're open to it, I'm happy
+  to take on a task that's new to me and learn as I go: that's how I've gained my most valuable experience.
+- **Support after delivery.** I stay in touch after the handover, and when needed I briefly explain how
+  everything works, so you or your team get up to speed quickly.
+- **In a team or on my own.** I'm comfortable working with a team and taking a task from start to finish by myself.
+- **Clear terms.** We agree on conditions flexibly and clearly, and strict, fixed deadlines are fine
+  when a project needs them.
 
 ## 📫 Contact
 
@@ -61,8 +67,11 @@ Everything is tuned to stay fast, even with local databases and AI models runnin
 
 # Ciao, sono Vladyslav Shokun 👋
 
-Sviluppatore Python autodidatta. Creo **bot Telegram, scraper di dati e strumenti di automazione**,
-e adoro ottimizzare Linux perché sia veloce anche su hardware modesto.
+Sviluppatore Python autodidatta, vivo a Bolzano. Creo **bot Telegram, scraper di dati, backend
+e strumenti di automazione** che fanno risparmiare tempo sul lavoro ripetitivo, e adoro ottimizzare Linux
+perché sia veloce anche su hardware modesto.
+Parlo **italiano (B2+), inglese (B1), ucraino e russo (C2)**: possiamo parlare del vostro progetto
+nella lingua che preferite.
 Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le mie configurazioni.
 
 ## 🧰 Cosa so fare
@@ -78,7 +87,6 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
   e configuro a mano il mio desktop: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Qualità e deploy:** test con `pytest` e `ruff` in ogni progetto, CI su GitHub Actions, Docker e systemd per servizi 24/7.
 - **Strumenti:** Git, VS Code con assistenti IA.
-- **Lingue:** italiano (B2+), inglese (B1), ucraino e russo (C2, madrelingua). Vivo a Bolzano.
 
 ## 🚀 Progetti
 
@@ -99,10 +107,14 @@ Tutto è ottimizzato per restare veloce, anche con database locali e modelli di 
 ## 🤝 Collaborare con me
 
 - **Disponibile per lavori freelance e posizioni da Junior Python Developer**, pronto a iniziare subito.
-- Quasi sempre raggiungibile. Concordiamo le condizioni in modo flessibile e chiaro.
-- Scadenze rigide e fisse non sono un problema, quando il progetto le richiede.
-- Adoro imparare, con gli strumenti di IA e senza. Se siete d'accordo, accetto volentieri un compito
-  nuovo per me e imparo strada facendo: è sempre così che ho acquisito l'esperienza più preziosa.
+- **Rispondo in fretta.** Sono quasi sempre raggiungibile e accetto volentieri i compiti complessi, invece di evitarli.
+- **Sempre in formazione.** Continuo a migliorare le mie competenze, con gli strumenti di IA e senza. Se siete d'accordo,
+  accetto volentieri un compito nuovo per me e imparo strada facendo: è così che ho acquisito l'esperienza più preziosa.
+- **Supporto dopo la consegna.** Resto a disposizione anche dopo la consegna e, quando serve, spiego in breve
+  come funziona tutto, così voi o il vostro team entrate subito nel vivo.
+- **In team o da solo.** Lavoro volentieri in squadra e so portare avanti un compito da solo, dall'inizio alla fine.
+- **Condizioni chiare.** Concordiamo le condizioni in modo flessibile e chiaro; scadenze rigide e fisse
+  non sono un problema, quando il progetto le richiede.
 
 ## 📫 Contatti
 
@@ -117,8 +129,11 @@ Tutto è ottimizzato per restare veloce, anche con database locali e modelli di 
 
 # Привіт, я Vladyslav Shokun 👋
 
-Python-розробник, навчаюся самостійно. Створюю **Telegram-ботів, парсери даних та інструменти автоматизації**,
-а ще люблю налаштовувати Linux так, щоб він літав навіть на скромному залізі.
+Python-розробник, навчаюся самостійно, живу в Больцано (Італія). Створюю **Telegram-ботів, парсери даних,
+бекенди та інструменти автоматизації**, які економлять час на рутині, а ще люблю налаштовувати Linux так,
+щоб він літав навіть на скромному залізі.
+Володію **італійською (B2+), англійською (B1), українською та російською (C2)**, тож обговорити ваш проєкт
+можемо тією мовою, якою вам зручніше.
 Цей профіль — моє відкрите портфоліо: реальні проєкти, мій прогрес і мої конфіги.
 
 ## 🧰 Що я вмію
@@ -134,7 +149,6 @@ Python-розробник, навчаюся самостійно. Створюю
   й налаштовую конфіги робочого столу: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Якість і розгортання:** тести `pytest` і `ruff` у кожному проєкті, CI на GitHub Actions, Docker і systemd для сервісів 24/7.
 - **Інструменти:** Git, VS Code з ШІ-асистентами.
-- **Мови:** італійська (B2+), англійська (B1), українська та російська (C2, рідні). Живу в Больцано, Італія.
 
 ## 🚀 Проєкти
 
@@ -155,10 +169,13 @@ MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійн
 ## 🤝 Співпраця
 
 - **Відкритий до фриланс-завдань і позиції Junior Python-розробника**, готовий почати одразу.
-- Майже завжди на зв'язку. Умови обговорюємо гнучко й чітко.
-- Якщо проєкту потрібен жорсткий фіксований дедлайн, вкладуся в нього.
-- Люблю вчитися, з ШІ і без нього. Якщо замовник не проти, візьмуся за незнайоме завдання
-  й розберуся по ходу роботи: саме так я завжди здобуваю найцінніший досвід.
+- **Швидко відповідаю.** Майже завжди на зв'язку й охоче беруся за складні завдання, а не уникаю їх.
+- **Постійно вчуся.** Весь час удосконалюю свої навички, з ШІ і без нього. Якщо замовник не проти, візьмуся
+  за незнайоме завдання й розберуся по ходу роботи: саме так я здобуваю найцінніший досвід.
+- **Підтримка після здачі.** Залишаюся на зв'язку й після передачі проєкту, а за потреби коротко пояснюю,
+  як усе влаштовано, щоб ви чи ваша команда швидко увійшли в курс справи.
+- **У команді чи самостійно.** Мені комфортно працювати в команді й самому вести завдання від початку до кінця.
+- **Чіткі умови.** Умови обговорюємо гнучко й чітко, а якщо проєкту потрібен жорсткий дедлайн, вкладуся в нього.
 
 ## 📫 Контакти
 
@@ -173,8 +190,11 @@ MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійн
 
 # Привет, я Vladyslav Shokun 👋
 
-Python-разработчик, учусь сам. Делаю **Telegram-ботов, парсеры данных и инструменты автоматизации**,
-а ещё люблю настраивать Linux так, чтобы он летал даже на скромном железе.
+Python-разработчик, учусь сам, живу в Больцано (Италия). Делаю **Telegram-ботов, парсеры данных,
+бэкенды и инструменты автоматизации**, которые экономят время на рутине, а ещё люблю настраивать Linux так,
+чтобы он летал даже на скромном железе.
+Говорю на **итальянском (B2+), английском (B1), украинском и русском (C2)**, так что обсудить ваш проект
+можно на удобном вам языке.
 Этот профиль — моё открытое портфолио: здесь мои проекты, прогресс и конфиги.
 
 ## 🧰 Что я умею
@@ -190,7 +210,6 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
   решаю проблемы, сам настраиваю конфиги рабочего стола: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Качество и развёртывание:** тесты `pytest` и `ruff` в каждом проекте, CI на GitHub Actions, Docker и systemd для сервисов 24/7.
 - **Инструменты:** Git, VS Code с ИИ-ассистентами.
-- **Языки:** итальянский (B2+), английский (B1), украинский и русский (C2, родные). Живу в Больцано, Италия.
 
 ## 🚀 Проекты
 
@@ -212,10 +231,13 @@ MacBook Pro M1 (8 ГБ ОЗУ) · Arch Linux ARM (Asahi) + macOS (двойная
 ## 🤝 Сотрудничество
 
 - **Открыт к фриланс-задачам и позиции Junior Python-разработчика** и готов начать сразу.
-- Почти всегда на связи. Условия обсуждаем гибко и чётко.
-- Если проекту нужен жёсткий дедлайн, уложусь в него.
-- Люблю учиться, с ИИ и без него. Если заказчик не против, возьмусь за незнакомую задачу
-  и разберусь по ходу работы: именно так я всегда получаю самый ценный опыт.
+- **Быстро отвечаю.** Почти всегда на связи и охотно берусь за сложные задачи, а не обхожу их.
+- **Постоянно учусь.** Всё время развиваю навыки, с ИИ и без него. Если заказчик не против, возьмусь
+  за незнакомую задачу и разберусь по ходу работы: именно так я получаю самый ценный опыт.
+- **Поддержка после сдачи.** Остаюсь на связи и после передачи проекта, а при необходимости коротко объясню,
+  как всё устроено, чтобы вы или ваша команда быстро вошли в курс дела.
+- **В команде или самостоятельно.** Мне комфортно работать в команде и самому вести задачу от начала до конца.
+- **Понятные условия.** Условия обсуждаем гибко и чётко, а если проекту нужен жёсткий дедлайн, уложусь в него.
 
 ## 📫 Контакты
 
