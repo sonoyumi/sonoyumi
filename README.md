@@ -23,7 +23,8 @@ This profile is my open portfolio: real projects, my progress and my configs.
 - **Linux:** daily Arch Linux user. I'm comfortable with package managers (`pacman`, `flatpak`) and fixing issues,
   and I hand-tune my desktop configs: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Quality and deployment:** `pytest` tests and `ruff` in every project, CI on GitHub Actions, Docker and systemd for 24/7 services.
-- **Tools:** Git, VS Code with AI assistants.
+- **Tools:** Git, VS Code with AI assistants, Docker containers. I run test servers from VS Code and spin up
+  short-lived servers right on my MacBook to check that a specific feature works before it goes live.
 
 ## 🚀 Projects
 
@@ -86,7 +87,8 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 - **Linux:** uso Arch Linux ogni giorno. Mi muovo con sicurezza tra i gestori di pacchetti (`pacman`, `flatpak`) e risolvo i problemi da solo,
   e configuro a mano il mio desktop: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Qualità e deploy:** test con `pytest` e `ruff` in ogni progetto, CI su GitHub Actions, Docker e systemd per servizi 24/7.
-- **Strumenti:** Git, VS Code con assistenti IA.
+- **Strumenti:** Git, VS Code con assistenti IA, container Docker. Avvio server di test da VS Code e metto su
+  server temporanei direttamente sul mio MacBook per verificare che una funzione precisa lavori prima del rilascio.
 
 ## 🚀 Progetti
 
@@ -148,7 +150,8 @@ Python-розробник, навчаюся самостійно, живу в Б
 - **Linux:** щодня користуюся Arch Linux. Упевнено працюю з пакетними менеджерами (`pacman`, `flatpak`), сам розв'язую проблеми
   й налаштовую конфіги робочого столу: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Якість і розгортання:** тести `pytest` і `ruff` у кожному проєкті, CI на GitHub Actions, Docker і systemd для сервісів 24/7.
-- **Інструменти:** Git, VS Code з ШІ-асистентами.
+- **Інструменти:** Git, VS Code з ШІ-асистентами, Docker-контейнери. Запускаю тестові сервери з VS Code і розгортаю
+  тимчасові сервери просто на своєму MacBook, щоб перевірити роботу конкретної функції перед запуском.
 
 ## 🚀 Проєкти
 
@@ -209,7 +212,8 @@ Python-разработчик, учусь сам, живу в Больцано (
 - **Linux:** пользуюсь Arch Linux каждый день. Уверенно работаю с пакетными менеджерами (`pacman`, `flatpak`),
   решаю проблемы, сам настраиваю конфиги рабочего стола: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Качество и развёртывание:** тесты `pytest` и `ruff` в каждом проекте, CI на GitHub Actions, Docker и systemd для сервисов 24/7.
-- **Инструменты:** Git, VS Code с ИИ-ассистентами.
+- **Инструменты:** Git, VS Code с ИИ-ассистентами, Docker-контейнеры. Запускаю тестовые серверы из VS Code и поднимаю
+  временные серверы прямо на своём MacBook, чтобы проверить работу конкретной функции перед запуском.
 
 ## 🚀 Проекты
 
