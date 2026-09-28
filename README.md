@@ -30,7 +30,6 @@ This profile is my open portfolio: real projects, my progress and my configs.
 | [Guard bot](https://github.com/sonoyumi/guard-bot) | A Telegram group moderator: captcha for newcomers, link/forward/stop-word filter, anti-flood, warnings and mutes |
 | [Price tracker](https://github.com/sonoyumi/price-tracker) | Watches product prices on any website, keeps the history and sends Telegram alerts about drops, target prices and stock changes |
 | [Web & Telegram scraper](https://github.com/sonoyumi/async-content-scraper) | Monitors websites and public Telegram channels on a schedule, removes duplicates, sends notifications |
-| HR screening bot *(coming soon)* | A Telegram bot that interviews job candidates, scores their answers with AI and exports results to Excel |
 | yumi-rice | My Hyprland / HyDE desktop setup for Arch Linux on a MacBook M1 *(private for now)* |
 
 ## 💻 My setup
@@ -84,7 +83,6 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 | [Bot di moderazione](https://github.com/sonoyumi/guard-bot) | Un moderatore per gruppi Telegram: captcha per i nuovi arrivati, filtro di link, inoltri e parole vietate, anti-flood, avvisi e silenziamento |
 | [Monitor prezzi](https://github.com/sonoyumi/price-tracker) | Tiene d'occhio i prezzi dei prodotti su qualsiasi sito, conserva lo storico e invia avvisi su Telegram per ribassi, prezzi obiettivo e cambi di disponibilità |
 | [Scraper di siti e Telegram](https://github.com/sonoyumi/async-content-scraper) | Monitora siti web e canali Telegram pubblici secondo una pianificazione, elimina i duplicati, invia notifiche |
-| Bot HR per la selezione *(in arrivo)* | Un bot Telegram che fa il primo colloquio ai candidati, valuta le risposte con l'IA ed esporta i risultati in Excel |
 | yumi-rice | La mia configurazione desktop Hyprland / HyDE per Arch Linux su MacBook M1 *(per ora privata)* |
 
 ## 💻 La mia postazione
@@ -138,7 +136,6 @@ Python-розробник, навчаюся самостійно. Створюю
 | [Антиспам-бот для груп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-груп: капча для новачків, фільтр посилань, пересилань і стоп-слів, антифлуд, попередження та мут |
 | [Монітор цін](https://github.com/sonoyumi/price-tracker) | Стежить за цінами товарів на будь-яких сайтах, зберігає історію та надсилає в Telegram сповіщення про зниження ціни, досягнення цільової ціни й зміну наявності |
 | [Парсер сайтів і Telegram](https://github.com/sonoyumi/async-content-scraper) | За розкладом стежить за сайтами й публічними Telegram-каналами, прибирає дублікати, надсилає сповіщення |
-| HR-бот для відбору кандидатів *(незабаром)* | Telegram-бот проводить первинну співбесіду, оцінює відповіді за допомогою ШІ та вивантажує результати в Excel |
 | yumi-rice | Мій сетап робочого столу Hyprland / HyDE для Arch Linux на MacBook M1 *(поки що закритий)* |
 
 ## 💻 Мій сетап
@@ -193,7 +190,6 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
 | [Антиспам-бот для групп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-групп: капча для новичков, фильтр ссылок, пересылок и стоп-слов, антифлуд, предупреждения и мут |
 | [Монитор цен](https://github.com/sonoyumi/price-tracker) | Следит за ценами товаров на любых сайтах, хранит историю и присылает в Telegram алерты о снижении, целевой цене и наличии |
 | [Парсер сайтов и Telegram](https://github.com/sonoyumi/async-content-scraper) | По расписанию следит за сайтами и публичными каналами, убирает дубли, присылает уведомления |
-| HR-бот для отбора кандидатов *(скоро)* | Telegram-бот проводит первичное собеседование, оценивает ответы с помощью ИИ и выгружает результаты в Excel |
 | yumi-rice | Мой сетап рабочего стола Hyprland / HyDE для Arch Linux на MacBook M1 *(пока закрыт)* |
 
 ## 💻 Мой сетап
