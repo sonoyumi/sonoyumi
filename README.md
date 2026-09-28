@@ -21,7 +21,7 @@ This profile is my open portfolio: real projects, my progress and my configs.
   and I hand-tune my desktop configs: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Quality and deployment:** `pytest` tests and `ruff` in every project, CI on GitHub Actions, Docker and systemd for 24/7 services.
 - **Tools:** Git, VS Code with AI assistants.
-- **Languages:** Italian (B2+), English, Ukrainian and Russian (native). Based in Bolzano, Italy.
+- **Languages:** Italian (B2+), English (B1), Ukrainian and Russian (C2, native). Based in Bolzano, Italy.
 
 ## 🚀 Projects
 
@@ -78,7 +78,7 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
   e configuro a mano il mio desktop: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Qualità e deploy:** test con `pytest` e `ruff` in ogni progetto, CI su GitHub Actions, Docker e systemd per servizi 24/7.
 - **Strumenti:** Git, VS Code con assistenti IA.
-- **Lingue:** italiano (B2+), inglese, ucraino e russo (madrelingua). Vivo a Bolzano.
+- **Lingue:** italiano (B2+), inglese (B1), ucraino e russo (C2, madrelingua). Vivo a Bolzano.
 
 ## 🚀 Progetti
 
@@ -134,7 +134,7 @@ Python-розробник, навчаюся самостійно. Створюю
   й налаштовую конфіги робочого столу: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Якість і розгортання:** тести `pytest` і `ruff` у кожному проєкті, CI на GitHub Actions, Docker і systemd для сервісів 24/7.
 - **Інструменти:** Git, VS Code з ШІ-асистентами.
-- **Мови:** італійська (B2+), англійська, українська та російська (рідні). Живу в Больцано, Італія.
+- **Мови:** італійська (B2+), англійська (B1), українська та російська (C2, рідні). Живу в Больцано, Італія.
 
 ## 🚀 Проєкти
 
@@ -190,7 +190,7 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
   решаю проблемы, сам настраиваю конфиги рабочего стола: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
 - **Качество и развёртывание:** тесты `pytest` и `ruff` в каждом проекте, CI на GitHub Actions, Docker и systemd для сервисов 24/7.
 - **Инструменты:** Git, VS Code с ИИ-ассистентами.
-- **Языки:** итальянский (B2+), английский, украинский и русский (родные). Живу в Больцано, Италия.
+- **Языки:** итальянский (B2+), английский (B1), украинский и русский (C2, родные). Живу в Больцано, Италия.
 
 ## 🚀 Проекты
 
