@@ -12,13 +12,16 @@ This profile is my open portfolio: real projects, my progress and my configs.
 
 - **Python** is my main language, and I use it confidently every day: async code (`asyncio`),
   Telegram bots (`aiogram`), external APIs and AI models (OpenAI, Gemini, local models via Ollama).
-  I'm currently taking courses to get my skills certified.
-- **Databases:** SQLite / `aiosqlite` in my projects. Next on my list is a deeper dive into databases.
+  I'm currently completing a Python certification (Stepik).
+- **Backend and APIs:** REST APIs with `FastAPI` and `Pydantic`, background jobs with `APScheduler`, Excel reports with `openpyxl`.
+- **Databases:** SQLite (`aiosqlite`), `SQLAlchemy 2.0` with `Alembic` migrations, PostgreSQL for production.
 - **Web scraping:** collecting data from websites and public Telegram channels (`httpx`, `Playwright`).
 - **Web basics:** HTML, plus a little CSS (for example, styling my own status bar).
 - **Linux:** daily Arch Linux user. I'm comfortable with package managers (`pacman`, `flatpak`) and fixing issues,
   and I hand-tune my desktop configs: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Quality and deployment:** `pytest` tests and `ruff` in every project, CI on GitHub Actions, Docker and systemd for 24/7 services.
 - **Tools:** Git, VS Code with AI assistants.
+- **Languages:** Italian (B2+), English, Ukrainian and Russian (native). Based in Bolzano, Italy.
 
 ## 🚀 Projects
 
@@ -66,13 +69,16 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 
 - **Python** è il mio linguaggio principale e lo uso con sicurezza ogni giorno: codice asincrono (`asyncio`),
   bot Telegram (`aiogram`), API esterne e modelli di IA (OpenAI, Gemini, modelli locali tramite Ollama).
-  Al momento sto seguendo dei corsi per certificare le mie competenze.
-- **Database:** SQLite / `aiosqlite` nei miei progetti. Il prossimo passo è approfondire lo studio dei database.
+  Sto completando una certificazione Python (Stepik).
+- **Backend e API:** API REST con `FastAPI` e `Pydantic`, attività pianificate con `APScheduler`, report Excel con `openpyxl`.
+- **Database:** SQLite (`aiosqlite`), `SQLAlchemy 2.0` con migrazioni `Alembic`, PostgreSQL in produzione.
 - **Web scraping:** raccolta di dati da siti web e canali Telegram pubblici (`httpx`, `Playwright`).
 - **Basi del web:** HTML e un po' di CSS (per esempio, lo stile della mia barra di stato).
 - **Linux:** uso Arch Linux ogni giorno. Mi muovo con sicurezza tra i gestori di pacchetti (`pacman`, `flatpak`) e risolvo i problemi da solo,
   e configuro a mano il mio desktop: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Qualità e deploy:** test con `pytest` e `ruff` in ogni progetto, CI su GitHub Actions, Docker e systemd per servizi 24/7.
 - **Strumenti:** Git, VS Code con assistenti IA.
+- **Lingue:** italiano (B2+), inglese, ucraino e russo (madrelingua). Vivo a Bolzano.
 
 ## 🚀 Progetti
 
@@ -119,13 +125,16 @@ Python-розробник, навчаюся самостійно. Створюю
 
 - **Python** — моя основна мова, щодня впевнено нею працюю: асинхронний код (`asyncio`),
   Telegram-боти (`aiogram`), зовнішні API та нейромережі (OpenAI, Gemini, локальні моделі через Ollama).
-  Зараз проходжу курси, щоб підтвердити навички сертифікатом.
-- **Бази даних:** SQLite / `aiosqlite` у своїх проєктах. Наступний крок — глибше вивчати бази даних.
+  Зараз завершую сертифікацію з Python (Stepik).
+- **Бекенд і API:** REST API на `FastAPI` і `Pydantic`, фонові задачі з `APScheduler`, звіти Excel через `openpyxl`.
+- **Бази даних:** SQLite (`aiosqlite`), `SQLAlchemy 2.0` з міграціями `Alembic`, PostgreSQL для продакшну.
 - **Парсинг:** збір даних із сайтів і публічних Telegram-каналів (`httpx`, `Playwright`).
 - **Основи вебу:** HTML і трохи CSS (наприклад, оформлення власної панелі стану).
 - **Linux:** щодня користуюся Arch Linux. Упевнено працюю з пакетними менеджерами (`pacman`, `flatpak`), сам розв'язую проблеми
   й налаштовую конфіги робочого столу: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Якість і розгортання:** тести `pytest` і `ruff` у кожному проєкті, CI на GitHub Actions, Docker і systemd для сервісів 24/7.
 - **Інструменти:** Git, VS Code з ШІ-асистентами.
+- **Мови:** італійська (B2+), англійська, українська та російська (рідні). Живу в Больцано, Італія.
 
 ## 🚀 Проєкти
 
@@ -172,13 +181,16 @@ Python-разработчик, учусь сам. Делаю **Telegram-бото
 
 - **Python** — мой основной язык, работаю на нём уверенно каждый день: асинхронный код (`asyncio`),
   Telegram-боты (`aiogram`), работа с внешними API и нейросетями (OpenAI, Gemini, локальные модели через Ollama).
-  Сейчас прохожу курсы, чтобы подтвердить навыки сертификатом.
-- **Базы данных:** SQLite / `aiosqlite` в своих проектах. Следующий шаг — изучать базы данных глубже.
+  Сейчас заканчиваю сертификацию по Python (Stepik).
+- **Бэкенд и API:** REST API на `FastAPI` и `Pydantic`, фоновые задачи с `APScheduler`, отчёты Excel через `openpyxl`.
+- **Базы данных:** SQLite (`aiosqlite`), `SQLAlchemy 2.0` с миграциями `Alembic`, PostgreSQL для продакшена.
 - **Парсинг:** сбор данных с сайтов и из публичных Telegram-каналов (`httpx`, `Playwright`).
 - **Основы веба:** HTML и немного CSS (например, оформление своей панели задач).
 - **Linux:** пользуюсь Arch Linux каждый день. Уверенно работаю с пакетными менеджерами (`pacman`, `flatpak`),
   решаю проблемы, сам настраиваю конфиги рабочего стола: Hyprland (Lua), Waybar (JSON + CSS), HyDE.
+- **Качество и развёртывание:** тесты `pytest` и `ruff` в каждом проекте, CI на GitHub Actions, Docker и systemd для сервисов 24/7.
 - **Инструменты:** Git, VS Code с ИИ-ассистентами.
+- **Языки:** итальянский (B2+), английский, украинский и русский (родные). Живу в Больцано, Италия.
 
 ## 🚀 Проекты
 
