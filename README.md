@@ -32,7 +32,9 @@ This profile is my open portfolio: real projects, my progress and my configs.
 |---|---|
 | [Lead hub](https://github.com/sonoyumi/lead-hub) | A lead-management backend: REST API for website forms, de-duplication, round-robin assignment, SLA reminders and escalations, daily Excel digest (FastAPI, SQLAlchemy, Alembic) |
 | [Booking bot](https://github.com/sonoyumi/booking-bot) | A Telegram bot for booking appointments: free time slots, reminders, owner notifications, no double bookings |
+| [Shop bot](https://github.com/sonoyumi/shop-bot) | A Telegram shop: catalog from a spreadsheet, cart, checkout dialog, stock that never goes negative, order statuses for the owner, optional online payment |
 | [Table report](https://github.com/sonoyumi/table-report) | Merges messy CSV/Excel files into one clean Excel report with totals and can send it to Telegram |
+| [Invoice extract](https://github.com/sonoyumi/invoice-extract) | Reads Italian e-invoices (FatturaPA XML and signed .p7m), checks VAT and tax codes and builds an Excel report: VAT by rate, suppliers, payment deadlines, problems |
 | [Guard bot](https://github.com/sonoyumi/guard-bot) | A Telegram group moderator: captcha for newcomers, link/forward/stop-word filter, anti-flood, warnings and mutes |
 | [Price tracker](https://github.com/sonoyumi/price-tracker) | Watches product prices on any website, keeps the history and sends Telegram alerts about drops, target prices and stock changes |
 | [Web & Telegram scraper](https://github.com/sonoyumi/async-content-scraper) | Monitors websites and public Telegram channels on a schedule, removes duplicates, sends notifications |
@@ -94,8 +96,11 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 
 | Progetto | Cosa fa |
 |---|---|
+| [Lead hub](https://github.com/sonoyumi/lead-hub) | Un backend per le richieste dei clienti: API REST per i moduli dei siti, unione dei duplicati, assegnazione a rotazione ai commerciali, promemoria ed escalation, riepilogo giornaliero in Excel (FastAPI, SQLAlchemy, Alembic) |
 | [Bot di prenotazione](https://github.com/sonoyumi/booking-bot) | Un bot Telegram per prenotare appuntamenti: orari liberi, promemoria, notifiche al titolare, niente doppie prenotazioni |
+| [Bot negozio](https://github.com/sonoyumi/shop-bot) | Un negozio su Telegram: catalogo da un foglio di calcolo, carrello, ordine guidato, giacenze che non vanno mai in negativo, stati dell'ordine per il titolare, pagamento online facoltativo |
 | [Report da tabelle](https://github.com/sonoyumi/table-report) | Unisce file CSV/Excel disordinati in un unico report Excel pulito con i totali e può inviarlo su Telegram |
+| [Lettore di fatture elettroniche](https://github.com/sonoyumi/invoice-extract) | Legge le fatture elettroniche (FatturaPA XML e .p7m firmati), controlla IVA e codici fiscali e crea un report Excel: IVA per aliquota, fornitori, scadenze di pagamento, problemi |
 | [Bot di moderazione](https://github.com/sonoyumi/guard-bot) | Un moderatore per gruppi Telegram: captcha per i nuovi arrivati, filtro di link, inoltri e parole vietate, anti-flood, avvisi e silenziamento |
 | [Monitor prezzi](https://github.com/sonoyumi/price-tracker) | Tiene d'occhio i prezzi dei prodotti su qualsiasi sito, conserva lo storico e invia avvisi su Telegram per ribassi, prezzi obiettivo e cambi di disponibilità |
 | [Scraper di siti e Telegram](https://github.com/sonoyumi/async-content-scraper) | Monitora siti web e canali Telegram pubblici secondo una pianificazione, elimina i duplicati, invia notifiche |
@@ -157,8 +162,11 @@ Python-розробник, навчаюся самостійно, живу в Б
 
 | Проєкт | Що робить |
 |---|---|
+| [Приймання заявок (Lead hub)](https://github.com/sonoyumi/lead-hub) | Бекенд для заявок: REST API для форм сайтів, склеювання дублікатів, розподіл між менеджерами, нагадування й ескалації, щоденне зведення з Excel (FastAPI, SQLAlchemy, Alembic) |
 | [Бот запису клієнтів](https://github.com/sonoyumi/booking-bot) | Telegram-бот для запису на послуги: вільний час, нагадування, сповіщення власнику, без подвійних записів |
+| [Бот-магазин](https://github.com/sonoyumi/shop-bot) | Магазин у Telegram: каталог із таблиці, кошик, оформлення замовлення, залишки ніколи не йдуть у мінус, статуси замовлень для власника, онлайн-оплата за бажанням |
 | [Звіт із таблиць](https://github.com/sonoyumi/table-report) | Зводить розрізнені CSV/Excel-файли в один чистий Excel-звіт із підсумками й може надіслати його в Telegram |
+| [Розбір електронних рахунків](https://github.com/sonoyumi/invoice-extract) | Читає італійські електронні рахунки (FatturaPA XML і підписані .p7m), перевіряє ПДВ і податкові коди та складає Excel-звіт: ПДВ за ставками, постачальники, терміни оплат, проблеми |
 | [Антиспам-бот для груп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-груп: капча для новачків, фільтр посилань, пересилань і стоп-слів, антифлуд, попередження та мут |
 | [Монітор цін](https://github.com/sonoyumi/price-tracker) | Стежить за цінами товарів на будь-яких сайтах, зберігає історію та надсилає в Telegram сповіщення про зниження ціни, досягнення цільової ціни й зміну наявності |
 | [Парсер сайтів і Telegram](https://github.com/sonoyumi/async-content-scraper) | За розкладом стежить за сайтами й публічними Telegram-каналами, прибирає дублікати, надсилає сповіщення |
@@ -221,7 +229,9 @@ Python-разработчик, учусь сам, живу в Больцано (
 |---|---|
 | [Приём заявок (Lead hub)](https://github.com/sonoyumi/lead-hub) | Бэкенд для заявок: REST API для форм сайтов, склейка дублей, распределение по менеджерам, напоминания и эскалации, ежедневная сводка с Excel (FastAPI, SQLAlchemy, Alembic) |
 | [Бот записи клиентов](https://github.com/sonoyumi/booking-bot) | Telegram-бот для записи на услуги: свободное время, напоминания, уведомления владельцу, без двойных записей |
+| [Бот-магазин](https://github.com/sonoyumi/shop-bot) | Магазин в Telegram: каталог из таблицы, корзина, оформление заказа, остатки никогда не уходят в минус, статусы заказов для владельца, онлайн-оплата по желанию |
 | [Отчёт из таблиц](https://github.com/sonoyumi/table-report) | Сводит разрозненные CSV/Excel-файлы в один чистый Excel-отчёт с итогами и может отправить его в Telegram |
+| [Разбор электронных счетов](https://github.com/sonoyumi/invoice-extract) | Читает итальянские электронные счета (FatturaPA XML и подписанные .p7m), проверяет НДС и налоговые коды и собирает Excel-отчёт: НДС по ставкам, поставщики, сроки оплат, проблемы |
 | [Антиспам-бот для групп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-групп: капча для новичков, фильтр ссылок, пересылок и стоп-слов, антифлуд, предупреждения и мут |
 | [Монитор цен](https://github.com/sonoyumi/price-tracker) | Следит за ценами товаров на любых сайтах, хранит историю и присылает в Telegram алерты о снижении, целевой цене и наличии |
 | [Парсер сайтов и Telegram](https://github.com/sonoyumi/async-content-scraper) | По расписанию следит за сайтами и публичными каналами, убирает дубли, присылает уведомления |
