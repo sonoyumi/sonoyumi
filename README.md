@@ -4,6 +4,8 @@
 
 # Hi, I'm Vladyslav Shokun 👋
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sonoyumi.github.io-3ecf8e?style=flat-square)](https://sonoyumi.github.io/)
+
 A self-taught Python developer based in Bolzano, Italy. I build **Telegram bots, data scrapers, backends
 and automation tools** that save people time on routine work, and I love tuning Linux so it runs fast
 even on modest hardware.
@@ -67,6 +69,7 @@ All configs and screenshots: **[yumi-rice](https://github.com/sonoyumi/yumi-rice
 ## 📫 Contact
 
 - **Email:** sonoyumiii@gmail.com
+- **Website:** [sonoyumi.github.io](https://sonoyumi.github.io/)
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
 - **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
@@ -77,6 +80,8 @@ All configs and screenshots: **[yumi-rice](https://github.com/sonoyumi/yumi-rice
 [🇬🇧 English](#english) · **🇮🇹 Italiano** · [🇺🇦 Українська](#ukrainian) · [🇷🇺 Русский](#russian)
 
 # Ciao, sono Vladyslav Shokun 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sonoyumi.github.io-3ecf8e?style=flat-square)](https://sonoyumi.github.io/?lang=it)
 
 Sviluppatore Python autodidatta, vivo a Bolzano. Creo **bot Telegram, scraper di dati, backend
 e strumenti di automazione** che fanno risparmiare tempo sul lavoro ripetitivo, e adoro ottimizzare Linux
@@ -141,6 +146,7 @@ Tutte le configurazioni e gli screenshot: **[yumi-rice](https://github.com/sonoy
 ## 📫 Contatti
 
 - **Email:** sonoyumiii@gmail.com
+- **Sito:** [sonoyumi.github.io](https://sonoyumi.github.io/?lang=it)
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
 - **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
@@ -151,6 +157,8 @@ Tutte le configurazioni e gli screenshot: **[yumi-rice](https://github.com/sonoy
 [🇬🇧 English](#english) · [🇮🇹 Italiano](#italian) · **🇺🇦 Українська** · [🇷🇺 Русский](#russian)
 
 # Привіт, я Vladyslav Shokun 👋
+
+[![Портфоліо](https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D1%96%D0%BE-sonoyumi.github.io-3ecf8e?style=flat-square)](https://sonoyumi.github.io/?lang=uk)
 
 Python-розробник, навчаюся самостійно, живу в Больцано (Італія). Створюю **Telegram-ботів, парсери даних,
 бекенди та інструменти автоматизації**, які економлять час на рутині, а ще люблю налаштовувати Linux так,
@@ -214,6 +222,7 @@ MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійн
 ## 📫 Контакти
 
 - **Email:** sonoyumiii@gmail.com
+- **Сайт:** [sonoyumi.github.io](https://sonoyumi.github.io/?lang=uk)
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
 - **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
@@ -224,6 +233,8 @@ MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійн
 [🇬🇧 English](#english) · [🇮🇹 Italiano](#italian) · [🇺🇦 Українська](#ukrainian) · **🇷🇺 Русский**
 
 # Привет, я Vladyslav Shokun 👋
+
+[![Портфолио](https://img.shields.io/badge/%D0%9F%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-sonoyumi.github.io-3ecf8e?style=flat-square)](https://sonoyumi.github.io/)
 
 Python-разработчик, учусь сам, живу в Больцано (Италия). Делаю **Telegram-ботов, парсеры данных,
 бэкенды и инструменты автоматизации**, которые экономят время на рутине, а ещё люблю настраивать Linux так,
@@ -287,5 +298,6 @@ MacBook Pro M1 (8 ГБ ОЗУ) · Arch Linux ARM (Asahi) + macOS (двойная
 ## 📫 Контакты
 
 - **Email:** sonoyumiii@gmail.com
+- **Сайт:** [sonoyumi.github.io](https://sonoyumi.github.io/)
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
 - **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
