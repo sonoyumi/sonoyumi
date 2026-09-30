@@ -48,6 +48,7 @@ This profile is my open portfolio: real projects, my progress and my configs.
 
 MacBook Pro M1 (8 GB RAM) · Arch Linux ARM (Asahi) + macOS dual boot · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
 Everything is tuned to stay fast, even with local databases and AI models running on just 8 GB of RAM.
+All configs and screenshots: **[yumi-rice](https://github.com/sonoyumi/yumi-rice)**.
 
 ## 🤝 Working with me
 
@@ -119,6 +120,7 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 
 MacBook Pro M1 (8 GB di RAM) · Arch Linux ARM (Asahi) + macOS in dual boot · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
 Tutto è ottimizzato per restare veloce, anche con database locali e modelli di IA in esecuzione su soli 8 GB di RAM.
+Tutte le configurazioni e gli screenshot: **[yumi-rice](https://github.com/sonoyumi/yumi-rice)**.
 
 ## 🤝 Collaborare con me
 
@@ -190,6 +192,7 @@ Python-розробник, навчаюся самостійно, живу в Б
 
 MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійне завантаження) · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
 Усе налаштовано так, щоб система працювала швидко навіть із локальними базами даних та ШІ-моделями на 8 ГБ пам'яті.
+Усі конфіги та скриншоти — у **[yumi-rice](https://github.com/sonoyumi/yumi-rice)**.
 
 ## 🤝 Співпраця
 
@@ -260,6 +263,7 @@ Python-разработчик, учусь сам, живу в Больцано (
 
 MacBook Pro M1 (8 ГБ ОЗУ) · Arch Linux ARM (Asahi) + macOS (двойная загрузка) · Hyprland + HyDE · Waybar · rofi · kitty · VS Code.
 Всё настроено так, чтобы система работала быстро даже с локальными базами данных и ИИ-моделями на 8 ГБ памяти.
+Все конфиги и скриншоты — в **[yumi-rice](https://github.com/sonoyumi/yumi-rice)**.
 
 ## 🤝 Сотрудничество
 
