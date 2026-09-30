@@ -42,7 +42,7 @@ This profile is my open portfolio: real projects, my progress and my configs.
 | [Guard bot](https://github.com/sonoyumi/guard-bot) | A Telegram group moderator: captcha for newcomers, link/forward/stop-word filter, anti-flood, warnings and mutes |
 | [Price tracker](https://github.com/sonoyumi/price-tracker) | Watches product prices on any website, keeps the history and sends Telegram alerts about drops, target prices and stock changes |
 | [Web & Telegram scraper](https://github.com/sonoyumi/async-content-scraper) | Monitors websites and public Telegram channels on a schedule, removes duplicates, sends notifications |
-| yumi-rice | My Hyprland / HyDE desktop setup for Arch Linux on a MacBook M1 *(private for now)* |
+| [yumi-rice](https://github.com/sonoyumi/yumi-rice) | My Hyprland / HyDE desktop on a MacBook M1 (Asahi Linux): pill-style Waybar, rofi menus, a swaync control center, colors synced to the wallpaper |
 
 ## 💻 My setup
 
@@ -113,7 +113,7 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 | [Bot di moderazione](https://github.com/sonoyumi/guard-bot) | Un moderatore per gruppi Telegram: captcha per i nuovi arrivati, filtro di link, inoltri e parole vietate, anti-flood, avvisi e silenziamento |
 | [Monitor prezzi](https://github.com/sonoyumi/price-tracker) | Tiene d'occhio i prezzi dei prodotti su qualsiasi sito, conserva lo storico e invia avvisi su Telegram per ribassi, prezzi obiettivo e cambi di disponibilità |
 | [Scraper di siti e Telegram](https://github.com/sonoyumi/async-content-scraper) | Monitora siti web e canali Telegram pubblici secondo una pianificazione, elimina i duplicati, invia notifiche |
-| yumi-rice | La mia configurazione desktop Hyprland / HyDE per Arch Linux su MacBook M1 *(per ora privata)* |
+| [yumi-rice](https://github.com/sonoyumi/yumi-rice) | Il mio desktop Hyprland / HyDE su MacBook M1 (Asahi Linux): Waybar a pillole, menu rofi, centro di controllo swaync, colori in tinta con lo sfondo |
 
 ## 💻 La mia postazione
 
@@ -184,7 +184,7 @@ Python-розробник, навчаюся самостійно, живу в Б
 | [Антиспам-бот для груп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-груп: капча для новачків, фільтр посилань, пересилань і стоп-слів, антифлуд, попередження та мут |
 | [Монітор цін](https://github.com/sonoyumi/price-tracker) | Стежить за цінами товарів на будь-яких сайтах, зберігає історію та надсилає в Telegram сповіщення про зниження ціни, досягнення цільової ціни й зміну наявності |
 | [Парсер сайтів і Telegram](https://github.com/sonoyumi/async-content-scraper) | За розкладом стежить за сайтами й публічними Telegram-каналами, прибирає дублікати, надсилає сповіщення |
-| yumi-rice | Мій сетап робочого столу Hyprland / HyDE для Arch Linux на MacBook M1 *(поки що закритий)* |
+| [yumi-rice](https://github.com/sonoyumi/yumi-rice) | Мій робочий стіл Hyprland / HyDE на MacBook M1 (Asahi Linux): Waybar із пігулок, меню rofi, центр керування swaync, кольори під шпалери |
 
 ## 💻 Мій сетап
 
@@ -254,7 +254,7 @@ Python-разработчик, учусь сам, живу в Больцано (
 | [Антиспам-бот для групп](https://github.com/sonoyumi/guard-bot) | Модератор Telegram-групп: капча для новичков, фильтр ссылок, пересылок и стоп-слов, антифлуд, предупреждения и мут |
 | [Монитор цен](https://github.com/sonoyumi/price-tracker) | Следит за ценами товаров на любых сайтах, хранит историю и присылает в Telegram алерты о снижении, целевой цене и наличии |
 | [Парсер сайтов и Telegram](https://github.com/sonoyumi/async-content-scraper) | По расписанию следит за сайтами и публичными каналами, убирает дубли, присылает уведомления |
-| yumi-rice | Мой сетап рабочего стола Hyprland / HyDE для Arch Linux на MacBook M1 *(пока закрыт)* |
+| [yumi-rice](https://github.com/sonoyumi/yumi-rice) | Мой рабочий стол Hyprland / HyDE на MacBook M1 (Asahi Linux): Waybar из пилюль, меню rofi, центр управления swaync, цвета под обои |
 
 ## 💻 Мой сетап
 
