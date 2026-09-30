@@ -31,6 +31,8 @@ This profile is my open portfolio: real projects, my progress and my configs.
 | Project | What it does |
 |---|---|
 | [Lead hub](https://github.com/sonoyumi/lead-hub) | A lead-management backend: REST API for website forms, de-duplication, round-robin assignment, SLA reminders and escalations, daily Excel digest (FastAPI, SQLAlchemy, Alembic) |
+| [HR screening SaaS](https://github.com/sonoyumi/hr-saas) | A candidate-screening service for many companies: each connects its own Telegram bot and writes questionnaires as text; candidates are scored 0–100 and ranked. Webhooks, encrypted bot tokens, plans, optional AI scoring |
+| [Support desk](https://github.com/sonoyumi/support-desk) | Customer support on Telegram: customers write to the bot, operators answer from a web panel. Tickets, response-time SLA, canned replies, search, reliable delivery, 5-star ratings |
 | [Webhook relay](https://github.com/sonoyumi/webhook-relay) | A reliable webhook gateway: verifies Stripe, GitHub and HMAC signatures, stores events, drops duplicates and delivers them with retries, dead letters and replay |
 | [Uptime monitor](https://github.com/sonoyumi/uptime-monitor) | Watches websites, ports and TLS certificates, sends Telegram alerts without false alarms, keeps uptime history, exposes Prometheus metrics and a status page |
 | [Booking bot](https://github.com/sonoyumi/booking-bot) | A Telegram bot for booking appointments: free time slots, reminders, owner notifications, no double bookings |
@@ -100,6 +102,8 @@ Questo profilo è il mio portfolio aperto: progetti reali, i miei progressi e le
 | Progetto | Cosa fa |
 |---|---|
 | [Lead hub](https://github.com/sonoyumi/lead-hub) | Un backend per le richieste dei clienti: API REST per i moduli dei siti, unione dei duplicati, assegnazione a rotazione ai commerciali, promemoria ed escalation, riepilogo giornaliero in Excel (FastAPI, SQLAlchemy, Alembic) |
+| [SaaS di preselezione HR](https://github.com/sonoyumi/hr-saas) | Un servizio di preselezione dei candidati per molte aziende: ognuna collega il proprio bot Telegram e scrive i questionari in testo semplice; i candidati ricevono un punteggio 0–100 e una classifica. Webhook, token cifrati, piani, valutazione IA opzionale |
+| [Assistenza clienti](https://github.com/sonoyumi/support-desk) | Assistenza clienti su Telegram: i clienti scrivono al bot, gli operatori rispondono da un pannello web. Richieste, SLA di risposta, risposte pronte, ricerca, consegna affidabile, valutazioni a 5 stelle |
 | [Relay di webhook](https://github.com/sonoyumi/webhook-relay) | Un gateway affidabile per i webhook: verifica le firme di Stripe, GitHub e HMAC, salva gli eventi, scarta i duplicati e li consegna con ritentativi, coda degli scarti e reinvio |
 | [Monitor di disponibilità](https://github.com/sonoyumi/uptime-monitor) | Controlla siti, porte e certificati TLS, avvisa su Telegram senza falsi allarmi, conserva lo storico, espone metriche Prometheus e una pagina di stato |
 | [Bot di prenotazione](https://github.com/sonoyumi/booking-bot) | Un bot Telegram per prenotare appuntamenti: orari liberi, promemoria, notifiche al titolare, niente doppie prenotazioni |
@@ -169,6 +173,8 @@ Python-розробник, навчаюся самостійно, живу в Б
 | Проєкт | Що робить |
 |---|---|
 | [Приймання заявок (Lead hub)](https://github.com/sonoyumi/lead-hub) | Бекенд для заявок: REST API для форм сайтів, склеювання дублікатів, розподіл між менеджерами, нагадування й ескалації, щоденне зведення з Excel (FastAPI, SQLAlchemy, Alembic) |
+| [HR-сервіс відбору](https://github.com/sonoyumi/hr-saas) | Сервіс відбору кандидатів для багатьох компаній: кожна підключає свого Telegram-бота й пише анкети текстом; кандидати отримують бал 0–100 і рейтинг. Вебхуки, зашифровані токени, тарифи, оцінка ШІ за бажанням |
+| [Служба підтримки](https://github.com/sonoyumi/support-desk) | Підтримка клієнтів у Telegram: клієнти пишуть боту, оператори відповідають із вебпанелі. Звернення, SLA відповіді, шаблони, пошук, надійна доставка, оцінки в 5 зірок |
 | [Шлюз вебхуків](https://github.com/sonoyumi/webhook-relay) | Надійний шлюз вебхуків: перевіряє підписи Stripe, GitHub і HMAC, зберігає події, відкидає дублікати й доставляє з повторами, «мертвими» доставками й повтором вручну |
 | [Моніторинг сервісів](https://github.com/sonoyumi/uptime-monitor) | Стежить за сайтами, портами й TLS-сертифікатами, сповіщає в Telegram без хибних тривог, зберігає історію, віддає метрики Prometheus і сторінку статусу |
 | [Бот запису клієнтів](https://github.com/sonoyumi/booking-bot) | Telegram-бот для запису на послуги: вільний час, нагадування, сповіщення власнику, без подвійних записів |
@@ -237,6 +243,8 @@ Python-разработчик, учусь сам, живу в Больцано (
 | Проект | Что делает |
 |---|---|
 | [Приём заявок (Lead hub)](https://github.com/sonoyumi/lead-hub) | Бэкенд для заявок: REST API для форм сайтов, склейка дублей, распределение по менеджерам, напоминания и эскалации, ежедневная сводка с Excel (FastAPI, SQLAlchemy, Alembic) |
+| [HR-сервис отбора](https://github.com/sonoyumi/hr-saas) | Сервис отбора кандидатов для многих компаний: каждая подключает своего Telegram-бота и пишет анкеты текстом; кандидаты получают балл 0–100 и рейтинг. Вебхуки, зашифрованные токены, тарифы, оценка ИИ по желанию |
+| [Служба поддержки](https://github.com/sonoyumi/support-desk) | Поддержка клиентов в Telegram: клиенты пишут боту, операторы отвечают из веб-панели. Обращения, SLA ответа, шаблоны, поиск, надёжная доставка, оценки в 5 звёзд |
 | [Шлюз вебхуков](https://github.com/sonoyumi/webhook-relay) | Надёжный шлюз вебхуков: проверяет подписи Stripe, GitHub и HMAC, сохраняет события, отбрасывает дубли и доставляет с повторами, «мёртвыми» доставками и повтором вручную |
 | [Мониторинг сервисов](https://github.com/sonoyumi/uptime-monitor) | Следит за сайтами, портами и TLS-сертификатами, уведомляет в Telegram без ложных тревог, хранит историю, отдаёт метрики Prometheus и страницу статуса |
 | [Бот записи клиентов](https://github.com/sonoyumi/booking-bot) | Telegram-бот для записи на услуги: свободное время, напоминания, уведомления владельцу, без двойных записей |
