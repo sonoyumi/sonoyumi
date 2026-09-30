@@ -63,6 +63,7 @@ Everything is tuned to stay fast, even with local databases and AI models runnin
 
 - **Email:** sonoyumiii@gmail.com
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+- **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
 ---
 
@@ -131,6 +132,7 @@ Tutto è ottimizzato per restare veloce, anche con database locali e modelli di 
 
 - **Email:** sonoyumiii@gmail.com
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+- **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
 ---
 
@@ -198,6 +200,7 @@ MacBook Pro M1 (8 ГБ ОЗП) · Arch Linux ARM (Asahi) + macOS (подвійн
 
 - **Email:** sonoyumiii@gmail.com
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+- **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
 
 ---
 
@@ -265,3 +268,4 @@ MacBook Pro M1 (8 ГБ ОЗУ) · Arch Linux ARM (Asahi) + macOS (двойная
 
 - **Email:** sonoyumiii@gmail.com
 - **Telegram:** [@sonoyumiii](https://t.me/sonoyumiii)
+- **LinkedIn:** [vladyslav-shokun](https://www.linkedin.com/in/vladyslav-shokun/)
